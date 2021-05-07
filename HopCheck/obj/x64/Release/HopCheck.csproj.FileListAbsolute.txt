@@ -1,0 +1,7 @@
+Z:\HopCheck\HopCheck\bin\x64\Release\HopCheck.exe.config
+Z:\HopCheck\HopCheck\bin\x64\Release\HopCheck.exe
+Z:\HopCheck\HopCheck\bin\x64\Release\HopCheck.pdb
+Z:\HopCheck\HopCheck\obj\x64\Release\HopCheck.csprojAssemblyReference.cache
+Z:\HopCheck\HopCheck\obj\x64\Release\HopCheck.csproj.CoreCompileInputs.cache
+Z:\HopCheck\HopCheck\obj\x64\Release\HopCheck.exe
+Z:\HopCheck\HopCheck\obj\x64\Release\HopCheck.pdb

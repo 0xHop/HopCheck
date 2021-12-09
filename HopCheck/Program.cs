@@ -50,27 +50,55 @@ namespace HopCheck
         }
 
 
-        
 
-        static public void Main(string[] args)
-		{
+        public static void getCIFS()
+        {
+
             Console.WriteLine("Querying PCs on the domain: " + System.Environment.UserDomainName);
             List<string> computers = GetComputers();
             Console.WriteLine("Checking for access");
-            foreach(string computer in computers)
-			{
+            foreach (string computer in computers)
+            {
 
                 string path = @"\\" + computer + @"\c$";
                 //Console.WriteLine(computer);
-                if(Directory.Exists(path))
-				{
+                if (Directory.Exists(path))
+                {
                     Console.WriteLine(computer);
-				}
+                }
 
-             
-			}
+            }
+        }
 
+        public static void getComputers()
+		{
+
+            Console.WriteLine("Querying PCs on the domain: " + System.Environment.UserDomainName);
+            List<string> computers = GetComputers();
+            Console.WriteLine("Checking for access");
+            foreach (string computer in computers)
+            {
+
+                Console.WriteLine(computer);
+
+            }
+        }
+
+
+            static public void Main(string[] args)
+        {
+            switch (args[1])
+            {
+                case "CIFS":
+                        getCIFS();
+                    break;
+                case "Computer":
+                    getComputers();
+                    break;
+    
+            } 
+        }
 
 		}
 	}
-}
+

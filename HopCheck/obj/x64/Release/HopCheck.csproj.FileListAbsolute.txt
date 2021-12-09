@@ -5,3 +5,9 @@ Z:\HopCheck\HopCheck\obj\x64\Release\HopCheck.csprojAssemblyReference.cache
 Z:\HopCheck\HopCheck\obj\x64\Release\HopCheck.csproj.CoreCompileInputs.cache
 Z:\HopCheck\HopCheck\obj\x64\Release\HopCheck.exe
 Z:\HopCheck\HopCheck\obj\x64\Release\HopCheck.pdb
+C:\Users\Nate\Source\Repos\HopCheck\HopCheck\bin\x64\Release\HopCheck.exe.config
+C:\Users\Nate\Source\Repos\HopCheck\HopCheck\bin\x64\Release\HopCheck.exe
+C:\Users\Nate\Source\Repos\HopCheck\HopCheck\bin\x64\Release\HopCheck.pdb
+C:\Users\Nate\Source\Repos\HopCheck\HopCheck\obj\x64\Release\HopCheck.csproj.CoreCompileInputs.cache
+C:\Users\Nate\Source\Repos\HopCheck\HopCheck\obj\x64\Release\HopCheck.exe
+C:\Users\Nate\Source\Repos\HopCheck\HopCheck\obj\x64\Release\HopCheck.pdb
